@@ -39,7 +39,7 @@ bl_info = {
     "location": "File > Import-Export > Forces Gen Splines",
     "description": "Import-Export Sonic Generations Spline files\n Also inside \"_misc.pac\" archives ",
     "warning": "",
-    "wiki_url": "https://twitter.com/AaronFWallace1",
+    "wiki_url": "https://github.com/aaron-foster-wallace/sonic_forces_splinetools",
     "category": "Import-Export",
 }
 
